@@ -4,7 +4,7 @@ Time Period: Latest 52 Weeks
 
 Objective: Analyze and compare the characteristics, preferences, and behaviors of Nescafe and Starbucks shoppers to develop strategies for Nescafe to capture Starbucks shoppers.
 
-**Overview**
+## **Overview**
 
 Nescafe has engaged us to analyze their shopper base and provide actionable insights to help improve their marketing and product strategies. By examining key consumer characteristics and preferences, we aim to identify differences between Nescafe and Starbucks buyers. This analysis will enable Nescafe to develop targeted approaches for expanding their customer base and improving their appeal to Starbucks shoppers.
 
